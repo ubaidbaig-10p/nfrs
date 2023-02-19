@@ -1,0 +1,3 @@
+- switch should be far from the reach of children
+- people should be able to use swtich during rainy weather / when it's raining
+- Only authroized users should be able to switch on/off the bulb
