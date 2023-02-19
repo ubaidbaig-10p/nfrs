@@ -1,0 +1,5 @@
+- Bulb should/shouldn't turn on / off itself based if someone is in the room / not in room within X meters of radius
+- Users should/shouldn't be able to turn on / off bulb from a mobile application
+- Users should/shouldn't be able to turn on / off bulb from a mobile application within X meters or even remotely
+- Users should/shouldn't be able to change the color of the light
+- Users should/shouldn't be able to change the brightness of the bulb
